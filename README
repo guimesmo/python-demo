@@ -8,3 +8,14 @@ Para executar:
 Para internacionalização utilize:
 
 > python3 frase_do_dia.py en
+
+
+Para executar o servidor Flask:
+    
+> export FLASK_APP=flask_app.py
+> flask run
+
+Abra o navegador em http://localhost:5000
+
+NÃO SE ESQUEÇA DE INSTALAR O FLASK
+> pip3 install flask
