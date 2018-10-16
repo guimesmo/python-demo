@@ -2,7 +2,9 @@ Este é um micro projeto para uma apresentação Python.
 
 Para executar:
 
-'''python3 frase_do_dia.py'''
+> python3 frase_do_dia.py
+
 
 Para internacionalização utilize:
-'''python3 frase_do_dia.py en'''
+
+> python3 frase_do_dia.py en
