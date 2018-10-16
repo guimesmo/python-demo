@@ -1,0 +1,8 @@
+pt|Bom dia
+en|Good morning
+
+pt|Hoje é um lindo dia
+en|Today is a beautiful day
+
+pt|Hoje chove
+en|Today it rains
